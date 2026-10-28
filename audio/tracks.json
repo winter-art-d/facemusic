@@ -1,0 +1,282 @@
+[
+  {
+    "id": "happy-sunlit-sprint",
+    "title": "Sunlit Sprint",
+    "artist": "Local Synth Lab",
+    "emotion": "happy",
+    "file": "/audio/happy-sunlit-sprint.mp3",
+    "bpm": 128,
+    "key": "C",
+    "mode": "major",
+    "root": "C",
+    "octave": 4,
+    "duration": 32.4,
+    "sizeKB": 507,
+    "tags": [
+      "明亮",
+      "大调",
+      "舞曲"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "happy-confetti-morning",
+    "title": "Confetti Morning",
+    "artist": "Local Synth Lab",
+    "emotion": "happy",
+    "file": "/audio/happy-confetti-morning.mp3",
+    "bpm": 116,
+    "key": "D",
+    "mode": "major",
+    "root": "D",
+    "octave": 4,
+    "duration": 31.37,
+    "sizeKB": 491,
+    "tags": [
+      "轻快",
+      "明亮",
+      "流行"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "sad-rain-window",
+    "title": "Rain on the Window",
+    "artist": "Local Synth Lab",
+    "emotion": "sad",
+    "file": "/audio/sad-rain-window.mp3",
+    "bpm": 62,
+    "key": "Am",
+    "mode": "minor",
+    "root": "A",
+    "octave": 3,
+    "duration": 41.11,
+    "sizeKB": 643,
+    "tags": [
+      "忧郁",
+      "小调",
+      "慢速"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "sad-empty-platform",
+    "title": "Empty Platform",
+    "artist": "Local Synth Lab",
+    "emotion": "sad",
+    "file": "/audio/sad-empty-platform.mp3",
+    "bpm": 56,
+    "key": "Dm",
+    "mode": "minor",
+    "root": "D",
+    "octave": 3,
+    "duration": 40.97,
+    "sizeKB": 641,
+    "tags": [
+      "孤寂",
+      "小调",
+      "极简"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "angry-redline",
+    "title": "Redline",
+    "artist": "Local Synth Lab",
+    "emotion": "angry",
+    "file": "/audio/angry-redline.mp3",
+    "bpm": 152,
+    "key": "Em",
+    "mode": "minor",
+    "root": "E",
+    "octave": 3,
+    "duration": 30.82,
+    "sizeKB": 482,
+    "tags": [
+      "激烈",
+      "失真",
+      "高频"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "angry-fracture",
+    "title": "Fracture",
+    "artist": "Local Synth Lab",
+    "emotion": "angry",
+    "file": "/audio/angry-fracture.mp3",
+    "bpm": 140,
+    "key": "F#m",
+    "mode": "minor",
+    "root": "F#",
+    "octave": 3,
+    "duration": 29.83,
+    "sizeKB": 467,
+    "tags": [
+      "暴躁",
+      "不协和",
+      "重低音"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "fear-static-corridor",
+    "title": "Static Corridor",
+    "artist": "Local Synth Lab",
+    "emotion": "fear",
+    "file": "/audio/fear-static-corridor.mp3",
+    "bpm": 100,
+    "key": "C#m",
+    "mode": "minor",
+    "root": "C#",
+    "octave": 3,
+    "duration": 31.2,
+    "sizeKB": 488,
+    "tags": [
+      "不安",
+      "半音冲突",
+      "悬疑"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "fear-cold-signal",
+    "title": "Cold Signal",
+    "artist": "Local Synth Lab",
+    "emotion": "fear",
+    "file": "/audio/fear-cold-signal.mp3",
+    "bpm": 94,
+    "key": "A#m",
+    "mode": "minor",
+    "root": "A#",
+    "octave": 3,
+    "duration": 30.49,
+    "sizeKB": 477,
+    "tags": [
+      "诡异",
+      "全音阶",
+      "稀疏"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "surprise-sudden-bloom",
+    "title": "Sudden Bloom",
+    "artist": "Local Synth Lab",
+    "emotion": "surprise",
+    "file": "/audio/surprise-sudden-bloom.mp3",
+    "bpm": 134,
+    "key": "G",
+    "mode": "major",
+    "root": "G",
+    "octave": 4,
+    "duration": 25.68,
+    "sizeKB": 402,
+    "tags": [
+      "跳跃",
+      "突强",
+      "全音阶"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "surprise-spark-lift",
+    "title": "Spark Lift",
+    "artist": "Local Synth Lab",
+    "emotion": "surprise",
+    "file": "/audio/surprise-spark-lift.mp3",
+    "bpm": 126,
+    "key": "B",
+    "mode": "major",
+    "root": "B",
+    "octave": 4,
+    "duration": 25.26,
+    "sizeKB": 395,
+    "tags": [
+      "灵动",
+      "上行",
+      "明亮"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "disgust-sour-vibe",
+    "title": "Sour Vibe",
+    "artist": "Local Synth Lab",
+    "emotion": "disgust",
+    "file": "/audio/disgust-sour-vibe.mp3",
+    "bpm": 102,
+    "key": "A#m",
+    "mode": "minor",
+    "root": "A#",
+    "octave": 3,
+    "duration": 30.64,
+    "sizeKB": 479,
+    "tags": [
+      "黏滞",
+      "失谐",
+      "三全音"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "disgust-grimace",
+    "title": "Grimace",
+    "artist": "Local Synth Lab",
+    "emotion": "disgust",
+    "file": "/audio/disgust-grimace.mp3",
+    "bpm": 96,
+    "key": "Em",
+    "mode": "minor",
+    "root": "E",
+    "octave": 3,
+    "duration": 29.9,
+    "sizeKB": 468,
+    "tags": [
+      "扭曲",
+      "低沉",
+      "怪诞"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "neutral-paper-lantern",
+    "title": "Paper Lantern",
+    "artist": "Local Synth Lab",
+    "emotion": "neutral",
+    "file": "/audio/neutral-paper-lantern.mp3",
+    "bpm": 72,
+    "key": "F",
+    "mode": "major",
+    "root": "F",
+    "octave": 4,
+    "duration": 39.07,
+    "sizeKB": 611,
+    "tags": [
+      "平静",
+      "均衡",
+      "原声感"
+    ],
+    "source": "local"
+  },
+  {
+    "id": "neutral-slow-tide",
+    "title": "Slow Tide",
+    "artist": "Local Synth Lab",
+    "emotion": "neutral",
+    "file": "/audio/neutral-slow-tide.mp3",
+    "bpm": 64,
+    "key": "C",
+    "mode": "major",
+    "root": "C",
+    "octave": 3,
+    "duration": 39.9,
+    "sizeKB": 624,
+    "tags": [
+      "舒缓",
+      "流动",
+      "低频柔和"
+    ],
+    "source": "local"
+  }
+]
