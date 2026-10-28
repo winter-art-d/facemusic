@@ -1,0 +1,29 @@
+name: Deploy Pages
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: emotion-music/package-lock.json
+      - name: Install dependencies
+        working-directory: ./emotion-music
+        run: npm install
+      - name: Build
+        working-directory: ./emotion-music
+        run: npm run build
+        env:
+          DEPLOY_BASE: /facemusic/
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./emotion-music/dist
