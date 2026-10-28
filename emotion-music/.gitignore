@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.npm-cache/
+.gen-faces/
+tools/.chrome-profile/
+tools/shots/_zoom.png
+tools/shots/*.tmp.png
+*.log
+.DS_Store

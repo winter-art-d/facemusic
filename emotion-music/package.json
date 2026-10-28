@@ -1,0 +1,20 @@
+{
+  "name": "emotion-music",
+  "private": true,
+  "version": "1.0.0",
+  "description": "基于人脸情绪识别的歌曲推荐系统 (Vue3 + face-api.js)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@vladmandic/face-api": "^1.7.15",
+    "vue": "^3.5.44"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "vite": "^5.4.21"
+  }
+}
